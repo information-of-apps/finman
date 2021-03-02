@@ -1022,7 +1022,7 @@ body.loud-overflow {
   position: relative;
   border-radius: 10px;
   background-repeat: no-repeat;
-  background-image: url("/img/logo.png");
+  background-image: url("../img/logo.png");
   background-position: center;
   background-size: cover;
   box-shadow: 0 8px 24px rgba(0, 47, 42, 0.1);
